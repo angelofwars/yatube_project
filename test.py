@@ -1,1 +1,1 @@
-print('Aloha')
+print(__name__)
